@@ -1,0 +1,293 @@
+{
+  "provider": [
+    {
+      "id": 1,
+      "network": "MTN"
+    },
+    {
+      "id": 2,
+      "network": "GLO"
+    },
+    {
+      "id": 3,
+      "network": "AIRTEL"
+    },
+    {
+      "id": 4,
+      "network": "9Mobile"
+    }
+
+  ],
+
+  "networktype":
+  [
+    {
+      "id": 1,
+      "provider_id": 1,
+      "type": "SME"
+    },
+    {
+      "id": 2,
+      "provider_id": 1,
+      "type": "Gifting"
+    },
+    {
+      "id": 3,
+      "provider_id": 2,
+      "type": "Gifting"
+    },
+    {
+      "id": 4,
+      "provider_id": 3,
+      "type": "Gifting"
+    },
+    {
+      "id": 5,
+      "provider_id": 4,
+      "type": "Gifting"
+    }
+
+  ],
+
+  "typeplan":
+  [
+    {
+      "id": 1,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "1GB - ₦218  1 MONTH (SME)"
+    },
+    {
+      "id": 2,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "1GB - ₦436  1 MONTH (SME)"
+    },
+    {
+      "id": 3,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "1GB - ₦654  1 MONTH (SME)"
+    },
+    {
+      "id": 4,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "5GB - ₦1090  1 MONTH (SME)"
+    },
+    {
+      "id": 5,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "500MB - ₦114  1 MONTH (SME)"
+    },
+    {
+      "id": 6,
+      "type_id": 1,
+      "provider_id": 1,
+      "plan": "10gb - ₦2180  1 MONTH (SME)"
+    },
+    {
+      "id": 7,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "1GB - ₦230 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 8,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "2GB - ₦460 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 9,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "3GB - ₦690 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 10,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "5GB - ₦1150 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 11,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "10GB - ₦2300 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 12,
+      "type_id": 2,
+      "provider_id": 1,
+      "plan": "500MB - ₦115 MONTHLY  (GIFTING)"
+    },
+
+    {
+      "id": 13,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "1.35 GB - 2 weeks ₦430 (GIFTING)"
+    },
+    {
+      "id": 14,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "2.5 GB \t- 1 month ₦850 (GIFTING)"
+    },
+    {
+      "id": 15,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "4.1 GB \t- 1 month ₦1300 (GIFTING)"
+    },
+    {
+      "id": 16,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "5.8 GB - 1 month ₦1700 (GIFTING)"
+    },
+    {
+      "id": 17,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "7.7 GB - 1 month ₦2125 (GIFTING)"
+    },
+    {
+      "id": 18,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "710.0 GB - 1 month ₦2550  (GIFTING)"
+    },
+    {
+      "id": 19,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "13.25 GB - 1 month ₦3400 (GIFTING)"
+    },
+    {
+      "id": 20,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "18.25 GB - 1 month ₦4200 (GIFTING)"
+    },
+    {
+      "id": 21,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "29.5 GB - 1 month ₦6800 (GIFTING)"
+    },
+    {
+      "id": 22,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "50.0 GB - 1 month ₦9700 (GIFTING)"
+    },
+    {
+      "id": 23,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "93.0 GB - 1 month ₦14550 (GIFTING)"
+    },
+    {
+      "id": 24,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "119.0 GB - 1 month ₦17460 (GIFTING)"
+    },
+    {
+      "id": 25,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "500MB - ₦115 MONTHLY  (GIFTING)"
+    },
+    {
+      "id": 26,
+      "type_id": 2,
+      "provider_id": 2,
+      "plan": "138.0 GB - 1 month ₦19400 (GIFTING)"
+    },
+
+    {
+      "id": 27,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "1GB - 1 month ₦235 (GIFTING)"
+    },
+    {
+      "id": 28,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "2.0 GB - 1 month ₦470 (GIFTING)"
+    },
+    {
+      "id": 29,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "5.0 GB - 1 month ₦1175 (GIFTING)"
+    },
+    {
+      "id": 30,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "500 MB - 1 month ₦118 (GIFTING)"
+    },
+    {
+      "id": 31,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "300 MB - 1 month ₦88 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 3,
+      "plan": "100 MB - 1 month ₦29 (GIFTING)"
+    },
+
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "75.0 GB - 1 month ₦13520 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "40.0 GB - 1 month ₦9020 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "15.0GB - 1MONTH ₦4520 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "11.0GB - 1MONTH ₦3650 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "4.5GB - 1MONTH ₦1820 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "1.5GB - 1MONTH ₦920 (GIFTING)"
+    },
+    {
+      "id": 32,
+      "type_id": 2,
+      "provider_id": 4,
+      "plan": "2.0GB - 1MONTH ₦1120 (GIFTING)"
+    }
+
+  ]
+}
