@@ -5,7 +5,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-with open("data/test.json") as file:
+with open("test.json") as file:
 	data = json.load(file)
 
 
